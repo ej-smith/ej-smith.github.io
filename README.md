@@ -1,6 +1,5 @@
-This is my website.
 
-######Hello, welcome to my website. 
+## Hello, welcome to my website. 
 
 Here is a short bio about me:
 
