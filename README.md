@@ -1,3 +1,1 @@
-# ej-smith.github.io
-
-This is my website.
+#This is my website.
