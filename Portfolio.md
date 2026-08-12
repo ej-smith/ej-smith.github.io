@@ -22,12 +22,13 @@ This is a performance of "Fee-Fi-Fo-Fum" written by Wayne Shorter. Emmet Smith i
 
 ## Photography
 
-<p>Click on an image to view it in a new tab</p>
-  <div class="w3-row-padding w3-center">
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/fall_traintracks.JPG" target="_blank">
-        <img src="Photos/fall_traintracks.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="railway tracks in the fall.">
-      </a>
+Click on an image to view it in a new tab
+
+<a href="Photos/fall_traintracks.JPG" target="_blank">
+  <img src="Photos/fall_traintracks.JPG" style="width:100%" alt="railway tracks in the fall.">
+</a>
+
+
     </div>
     <div class="w3-col m3 w3-padding">
       <a href="Photos/ocean.JPG" target="_blank">
