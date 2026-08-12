@@ -28,44 +28,31 @@ Click on an image to view it in a new tab
   <img src="Photos/fall_traintracks.JPG" style="width:100%" alt="railway tracks in the fall.">
 </a>
 
+<a href="Photos/ocean.JPG" target="_blank">
+  <img src="Photos/ocean.JPG" style="width:100%" alt="a cliff near the ocean.">
+</a>
 
-    </div>
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/ocean.JPG" target="_blank">
-        <img src="Photos/ocean.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a cliff near the ocean.">
-      </a>
-    </div>
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/waterfall.JPG" target="_blank">
-        <img src="Photos/waterfall.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a large waterfall during the summer.">
-      </a>
-    </div>
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/field.JPG" target="_blank">
-        <img src="Photos/field.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a field with bushes and garbage cans in the mid ground.">
-      </a>
-    </div>
-  </div>
-  <div class="w3-row-padding w3-center w3-section">
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/lake.JPG" target="_blank">
-        <img src="Photos/lake.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a bridge winding around a lake with lily pads.">
-      </a>
-    </div>
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/bird.JPG" target="_blank">
-        <img src="Photos/bird.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a bird on a tree branch.">
-      </a>
-    </div>
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/ocean_rocks.JPG" target="_blank">
-        <img src="Photos/ocean_rocks.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a wave crashing into rocks in the ocean.">
-      </a>
-    </div>
-    <div class="w3-col m3 w3-padding">
-      <a href="Photos/ocean_rocks2.JPG" target="_blank">
-        <img src="Photos/ocean_rocks2.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="the edge of a clif overlooking the ocean.">
-      </a>
-    </div>
-  </div>
-</div>
+<a href="Photos/waterfall.JPG" target="_blank">
+  <img src="Photos/waterfall.JPG" style="width:100%" alt="a large waterfall during the summer.">
+</a>
+
+<a href="Photos/field.JPG" target="_blank">
+  <img src="Photos/field.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a field with bushes and garbage cans in the mid ground.">
+</a>
+
+<a href="Photos/lake.JPG" target="_blank">
+  <img src="Photos/lake.JPG" style="width:100%" alt="a bridge winding around a lake with lily pads.">
+</a>
+
+<a href="Photos/bird.JPG" target="_blank">
+  <img src="Photos/bird.JPG" style="width:100%" alt="a bird on a tree branch.">
+</a>
+
+<a href="Photos/ocean_rocks.JPG" target="_blank">
+  <img src="Photos/ocean_rocks.JPG" style="width:100%" alt="a wave crashing into rocks in the ocean.">
+</a>
+
+<a href="Photos/ocean_rocks2.JPG" target="_blank">
+  <img src="Photos/ocean_rocks2.JPG" style="width:100%" alt="the edge of a clif overlooking the ocean.">
+</a>
+
