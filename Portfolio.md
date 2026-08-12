@@ -25,45 +25,45 @@ This is a performance of "Fee-Fi-Fo-Fum" written by Wayne Shorter. Emmet Smith i
 <p>Click on an image to view it in a new tab</p>
   <div class="w3-row-padding w3-center">
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/fall_traintracks.jpg" target="_blank">
-        <img src="Photos/fall_traintracks.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="railway tracks in the fall.">
+      <a href="Photos/fall_traintracks.JPG" target="_blank">
+        <img src="Photos/fall_traintracks.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="railway tracks in the fall.">
       </a>
     </div>
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/ocean.jpg" target="_blank">
-        <img src="Photos/ocean.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a cliff near the ocean.">
+      <a href="Photos/ocean.JPG" target="_blank">
+        <img src="Photos/ocean.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a cliff near the ocean.">
       </a>
     </div>
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/waterfall.jpg" target="_blank">
-        <img src="Photos/waterfall.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a large waterfall during the summer.">
+      <a href="Photos/waterfall.JPG" target="_blank">
+        <img src="Photos/waterfall.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a large waterfall during the summer.">
       </a>
     </div>
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/field.jpg" target="_blank">
-        <img src="Photos/field.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a field with bushes and garbage cans in the mid ground.">
+      <a href="Photos/field.JPG" target="_blank">
+        <img src="Photos/field.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a field with bushes and garbage cans in the mid ground.">
       </a>
     </div>
   </div>
   <div class="w3-row-padding w3-center w3-section">
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/lake.jpg" target="_blank">
-        <img src="Photos/lake.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a bridge winding around a lake with lily pads.">
+      <a href="Photos/lake.JPG" target="_blank">
+        <img src="Photos/lake.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a bridge winding around a lake with lily pads.">
       </a>
     </div>
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/bird.jpg" target="_blank">
-        <img src="Photos/bird.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a bird on a tree branch.">
+      <a href="Photos/bird.JPG" target="_blank">
+        <img src="Photos/bird.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a bird on a tree branch.">
       </a>
     </div>
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/ocean_rocks.jpg" target="_blank">
-        <img src="Photos/ocean_rocks.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a wave crashing into rocks in the ocean.">
+      <a href="Photos/ocean_rocks.JPG" target="_blank">
+        <img src="Photos/ocean_rocks.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="a wave crashing into rocks in the ocean.">
       </a>
     </div>
     <div class="w3-col m3 w3-padding">
-      <a href="Photos/ocean_rocks2.jpg" target="_blank">
-        <img src="Photos/ocean_rocks2.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="the edge of a clif overlooking the ocean.">
+      <a href="Photos/ocean_rocks2.JPG" target="_blank">
+        <img src="Photos/ocean_rocks2.JPG" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="the edge of a clif overlooking the ocean.">
       </a>
     </div>
   </div>
