@@ -22,7 +22,9 @@ This is a performance of "Fee-Fi-Fo-Fum" written by Wayne Shorter. Emmet Smith i
 
 ## Performances
 
-[Tobias Beale and Friends - 2026 May 2](https://musiqueroyale.com/event/2026/2026-05-02-tobias-beale-and-friends/)
+[Tobias Beale and Friends - May 2, 2026](https://musiqueroyale.com/event/2026/2026-05-02-tobias-beale-and-friends/)
+
+[Max and Emmet + Play!: An Evening of Live Music in Two Parts - July 26, 2024](https://halifax.shambhala.org/event/736593-/)
 
 ## Photography
 
