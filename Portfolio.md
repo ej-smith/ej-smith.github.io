@@ -1,6 +1,6 @@
 ### Portfolio
 
-## Music
+## Recordings
 
 "Strike" is an orginal musical composition by Emmet Smith. All parts were written and performed by Emmet Smith in February of 2024.
 
@@ -19,6 +19,10 @@ This is a performance of "Fee-Fi-Fo-Fum" written by Wayne Shorter. Emmet Smith i
 <div style="display: flex; justify-content: center;">
 <iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/dfDAf3Zqdno?si=XgLCLRJA5u-25k6T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+## Performances
+
+[Tobias Beale and Friends - 2026 May 2] (https://musiqueroyale.com/event/2026/2026-05-02-tobias-beale-and-friends/)
 
 ## Photography
 
