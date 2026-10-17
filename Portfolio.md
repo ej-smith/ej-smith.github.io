@@ -26,8 +26,7 @@ This is a performance of "Fee-Fi-Fo-Fum" written by Wayne Shorter. Emmet Smith i
 
 [Max and Emmet + Play!: An Evening of Live Music in Two Parts - July 26, 2024](https://halifax.shambhala.org/event/736593-/)
 
-Halifax Regional Arts Senior Jazz Band November 29, 2023
-<img width=100% alt="jazzinitup-poster" src="https://github.com/user-attachments/assets/6ad946ba-5250-4694-8b34-3beaa23df008" />
+[Halifax Regional Arts Senior Jazz Band November 29, 2023](<img width=100% alt="jazzinitup-poster" src="https://github.com/user-attachments/assets/6ad946ba-5250-4694-8b34-3beaa23df008" />)
 
 
 ## Photography
