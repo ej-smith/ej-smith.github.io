@@ -31,8 +31,8 @@ Soul Tides at Gaspereau Hall Fundraiser - September 20, 2026
 
 Max Guitton Trio at Eastern Tea Bar - September 25, 2026
 
-<a href="Photos/Photos/Max Guitton Trio Poster.jpg" target="_blank">
-  <img src="Photos/Photos/Max Guitton Trio Poster.jpg" style="width:25%">
+<a href="Photos/Max Guitton Trio Poster.jpeg" target="_blank">
+  <img src="Photos/Max Guitton Trio Poster.jpeg" style="width:25%">
 </a>
 
 [Tobias Beale and Friends - May 2, 2026](https://musiqueroyale.com/event/2026/2026-05-02-tobias-beale-and-friends/)
