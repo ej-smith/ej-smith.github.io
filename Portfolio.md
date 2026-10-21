@@ -1,4 +1,5 @@
-### Portfolio
+# Portfolio
+Here are some examples of my work. This is both to share my work with you, and to remind myself of the things I've done over the years.
 
 ## Recordings
 
@@ -21,6 +22,18 @@ This is a performance of "Fee-Fi-Fo-Fum" written by Wayne Shorter. Emmet Smith i
 </div>
 
 ## Performances
+
+Soul Tides at Gaspereau Hall Fundraiser - September 20, 2026
+
+<a href="Photos/Gaspereau Hall Fundraiser Poster.jpg" target="_blank">
+  <img src="Photos/Gaspereau Hall Fundraiser Poster.jpg" style="width:25%">
+</a>
+
+Max Guitton Trio at Eastern Tea Bar - September 25, 2026
+
+<a href="Photos/Photos/Max Guitton Trio Poster.webp" target="_blank">
+  <img src="Photos/Photos/Max Guitton Trio Poster.webp" style="width:25%">
+</a>
 
 [Tobias Beale and Friends - May 2, 2026](https://musiqueroyale.com/event/2026/2026-05-02-tobias-beale-and-friends/)
 
